@@ -1,2 +1,4 @@
 # Nike-Sales-Power-BI-Dashboard
 Created the Nike Sales Dashboard to visualize sales data interactively, combining product details with key metrics for data-driven decision-making and strategic planning, optimizing Nike's sales performance.
+
+The Nike Sales Dashboard represents a significant achievement in visualizing complex sales data in an accessible and interactive format. By combining detailed product information with powerful sales metrics and visual analytics, the dashboard serves as a valuable resource for Nike’s sales and marketing teams, enabling data-driven decision-making and strategic planning. The design and functionality of the dashboard ensure that users can navigate and interpret the data with ease, making it a critical tool for understanding and optimizing Nike’s product sales performance.
